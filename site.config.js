@@ -4,16 +4,16 @@ const CONFIG = {
     name: "Yein Chung",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Immunology specialist",
-    bio: "I develop everything!!! It's me!!",
+    bio: "I love you!",
     email: "morethanmin.dev@gmail.com",
-    linkedin: "https://www.linkedin.com/in/yein-chung-76a720208/",
+    linkedin: "yein-chung-76a720208",
     github: "yeinchung",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Cygnus`,
+      href: "https://github.com/yeinchung/Cygnus",
     },
   ],
   // blog setting (required)
