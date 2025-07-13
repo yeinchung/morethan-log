@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Immunology specialist",
     bio: "I develop everything!!! It's me!!",
     email: "morethanmin.dev@gmail.com",
-    linkedin: "yeinchung",
+    linkedin: "https://www.linkedin.com/in/yein-chung-76a720208/",
     github: "yeinchung",
     instagram: "",
   },
